@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Win32Project1.cpp
+Win32Project1.cpp(8): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  Win32Project1.cpp(8): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\Win32Project1\x64\Release\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\Win32Project1\x64\Release\Win32Project1.pdb (Full PDB)

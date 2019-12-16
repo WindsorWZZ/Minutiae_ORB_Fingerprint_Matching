@@ -1,0 +1,7 @@
+﻿  Win32Project1.cpp
+d:\study\senior\capstone\fingerprint\code\win32project1\win32project1\win32project1.cpp(12): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\study\senior\capstone\fingerprint\code\win32project1\win32project1\win32project1.cpp(12): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+d:\study\senior\capstone\fingerprint\code\win32project1\win32project1\win32project1.cpp(58): warning C4101: 'y': unreferenced local variable
+d:\study\senior\capstone\fingerprint\code\win32project1\win32project1\win32project1.cpp(58): warning C4101: 'x': unreferenced local variable
+  Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\Win32Project1\x64\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\Win32Project1\x64\Debug\Win32Project1.pdb (Full PDB)
