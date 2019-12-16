@@ -1,4 +1,4 @@
-// Win32Project1.cpp : Defines the entry point for the console application.
+// MinutiaeORB_Fingerprint_Matching.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
