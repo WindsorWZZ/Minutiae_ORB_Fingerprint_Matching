@@ -1,3 +1,4 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Win32Project1.cpp
   Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\MinutiaeORB_Fingerprint_Matching\Debug\MinutiaeORB_Fingerprint_Matching.exe
   Win32Project1.vcxproj -> D:\STUDY\SENIOR\Capstone\FingerPrint\code\MinutiaeORB_Fingerprint_Matching\Debug\MinutiaeORB_Fingerprint_Matching.pdb (Full PDB)

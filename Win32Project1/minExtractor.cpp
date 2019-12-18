@@ -107,7 +107,7 @@ int minExtractor::cvtKeyPoint(unsigned char* TempFeature, vector<KeyPoint>* keyp
 		angle = (float)TempFeature[i + 4];
 		type = (float)TempFeature[i + 6];
 		m = (float)TempFeature[i + 8];
-		(*keypoints)[j] = KeyPoint::KeyPoint(point, m, angle, 1e-5, 0, -1);
+		(*keypoints)[j] = KeyPoint::KeyPoint(point, 32, angle, m, 0, type);
 		j++;
 	}
 	/*

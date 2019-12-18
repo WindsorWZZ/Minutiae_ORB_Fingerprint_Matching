@@ -17,7 +17,7 @@ class minExtractor
 public:
 	minExtractor();
 	int SYFp_File_LoadBMP(char* file, unsigned char* pImage, int* pX, int* pY);
-	int featureExtract(char * src_img, unsigned char* TempFeature);
+	int featureExtract(char* src_img, unsigned char* TempFeature);
 	int cvtKeyPoint(unsigned char* TempFeature, vector<KeyPoint>* keypoints);
 	~minExtractor();
 };
