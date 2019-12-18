@@ -27,7 +27,7 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	vector<KeyPoint> keyPoints_1(len1), keyPoints_2(len2);
 	extractor.cvtKeyPoint(TempFeature1, &keyPoints_1);
 	extractor.cvtKeyPoint(TempFeature2, &keyPoints_2);
-
+	/*
 	//Print the keypoints
 	vector<KeyPoint>::iterator KP;
 	cout << "pic 1" << endl;
@@ -51,8 +51,8 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 		cout << "OCTAVE=" << KP->octave << " ";
 		cout << "ID=" << KP->class_id << " ";
 		cout << endl;
-
 	}
+	*/
 	//进行匹配
 	Mat img_1 = imread(file_1);
 	Mat img_2 = imread(file_2);
@@ -104,14 +104,15 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 
 	cout << "\n-- Max dist : " << max_dist << endl;
 	cout << "\n-- Min dist : " << min_dist << endl;
-
+	double threshold = 360;
 	for (int i = 0; i < sz; i++)
 	{
-		if (matches[i].distance < 0.7*max_dist)
+		if (matches[i].distance < threshold) //rate * max_dist
 		{
 			good_matches.push_back(matches[i]);
 		}
 	}
+	/*
 	//提取良好匹配结果中在待测图片上的点集，确定匹配的大概位置
 	for (size_t i = 0; i < good_matches.size(); ++i)
 	{
@@ -135,7 +136,7 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	//画出良好匹配结果中在待测图片上的点集
 	imshow("MatchPoints_in_img_2", img_2);
 	//imwrite("MatchPoints_in_img_2.png", img_2);
-
+	*/
 	return good_matches.size();
 }
 

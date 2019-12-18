@@ -1,0 +1,991 @@
+
+data/05001-340000.bmp scores 56 in data/05001-3400
+data/05001-340000.bmp scores 0 in data/05001-5200
+data/05001-340000.bmp scores 42 in data/05009-1400
+data/05001-340000.bmp scores 12 in data/05046-4900
+data/05001-340000.bmp scores 35 in data/05048-1800
+data/05001-340000.bmp scores 55 in data/05048-1900
+data/05001-340000.bmp scores 10 in data/05052-2400
+data/05001-340000.bmp scores 3 in data/05052-2600
+data/05001-340000.bmp scores 26 in data/05055-1200
+
+data/05001-340001.bmp scores 57 in data/05001-3400
+data/05001-340001.bmp scores 3 in data/05001-5200
+data/05001-340001.bmp scores 81 in data/05009-1400
+data/05001-340001.bmp scores 41 in data/05046-4900
+data/05001-340001.bmp scores 79 in data/05048-1800
+data/05001-340001.bmp scores 129 in data/05048-1900
+data/05001-340001.bmp scores 27 in data/05052-2400
+data/05001-340001.bmp scores 1 in data/05052-2600
+data/05001-340001.bmp scores 96 in data/05055-1200
+
+data/05001-340002.bmp scores 31 in data/05001-3400
+data/05001-340002.bmp scores 5 in data/05001-5200
+data/05001-340002.bmp scores 10 in data/05009-1400
+data/05001-340002.bmp scores 3 in data/05046-4900
+data/05001-340002.bmp scores 15 in data/05048-1800
+data/05001-340002.bmp scores 20 in data/05048-1900
+data/05001-340002.bmp scores 16 in data/05052-2400
+data/05001-340002.bmp scores 8 in data/05052-2600
+data/05001-340002.bmp scores 4 in data/05055-1200
+
+data/05001-340003.bmp scores 58 in data/05001-3400
+data/05001-340003.bmp scores 2 in data/05001-5200
+data/05001-340003.bmp scores 13 in data/05009-1400
+data/05001-340003.bmp scores 11 in data/05046-4900
+data/05001-340003.bmp scores 17 in data/05048-1800
+data/05001-340003.bmp scores 33 in data/05048-1900
+data/05001-340003.bmp scores 8 in data/05052-2400
+data/05001-340003.bmp scores 4 in data/05052-2600
+data/05001-340003.bmp scores 9 in data/05055-1200
+
+data/05001-340004.bmp scores 84 in data/05001-3400
+data/05001-340004.bmp scores 5 in data/05001-5200
+data/05001-340004.bmp scores 5 in data/05009-1400
+data/05001-340004.bmp scores 9 in data/05046-4900
+data/05001-340004.bmp scores 16 in data/05048-1800
+data/05001-340004.bmp scores 16 in data/05048-1900
+data/05001-340004.bmp scores 10 in data/05052-2400
+data/05001-340004.bmp scores 1 in data/05052-2600
+data/05001-340004.bmp scores 17 in data/05055-1200
+
+data/05001-340005.bmp scores 30 in data/05001-3400
+data/05001-340005.bmp scores 0 in data/05001-5200
+data/05001-340005.bmp scores 11 in data/05009-1400
+data/05001-340005.bmp scores 3 in data/05046-4900
+data/05001-340005.bmp scores 25 in data/05048-1800
+data/05001-340005.bmp scores 34 in data/05048-1900
+data/05001-340005.bmp scores 10 in data/05052-2400
+data/05001-340005.bmp scores 0 in data/05052-2600
+data/05001-340005.bmp scores 15 in data/05055-1200
+
+data/05001-340006.bmp scores 58 in data/05001-3400
+data/05001-340006.bmp scores 1 in data/05001-5200
+data/05001-340006.bmp scores 53 in data/05009-1400
+data/05001-340006.bmp scores 7 in data/05046-4900
+data/05001-340006.bmp scores 54 in data/05048-1800
+data/05001-340006.bmp scores 77 in data/05048-1900
+data/05001-340006.bmp scores 10 in data/05052-2400
+data/05001-340006.bmp scores 1 in data/05052-2600
+data/05001-340006.bmp scores 38 in data/05055-1200
+
+data/05001-340007.bmp scores 81 in data/05001-3400
+data/05001-340007.bmp scores 2 in data/05001-5200
+data/05001-340007.bmp scores 24 in data/05009-1400
+data/05001-340007.bmp scores 15 in data/05046-4900
+data/05001-340007.bmp scores 42 in data/05048-1800
+data/05001-340007.bmp scores 80 in data/05048-1900
+data/05001-340007.bmp scores 17 in data/05052-2400
+data/05001-340007.bmp scores 0 in data/05052-2600
+data/05001-340007.bmp scores 45 in data/05055-1200
+
+data/05001-340008.bmp scores 28 in data/05001-3400
+data/05001-340008.bmp scores 1 in data/05001-5200
+data/05001-340008.bmp scores 16 in data/05009-1400
+data/05001-340008.bmp scores 6 in data/05046-4900
+data/05001-340008.bmp scores 20 in data/05048-1800
+data/05001-340008.bmp scores 30 in data/05048-1900
+data/05001-340008.bmp scores 6 in data/05052-2400
+data/05001-340008.bmp scores 1 in data/05052-2600
+data/05001-340008.bmp scores 14 in data/05055-1200
+
+data/05001-340009.bmp scores 28 in data/05001-3400
+data/05001-340009.bmp scores 20 in data/05001-5200
+data/05001-340009.bmp scores 27 in data/05009-1400
+data/05001-340009.bmp scores 11 in data/05046-4900
+data/05001-340009.bmp scores 26 in data/05048-1800
+data/05001-340009.bmp scores 45 in data/05048-1900
+data/05001-340009.bmp scores 3 in data/05052-2400
+data/05001-340009.bmp scores 3 in data/05052-2600
+data/05001-340009.bmp scores 16 in data/05055-1200
+
+data/05001-340010.bmp scores 11 in data/05001-3400
+data/05001-340010.bmp scores 0 in data/05001-5200
+data/05001-340010.bmp scores 3 in data/05009-1400
+data/05001-340010.bmp scores 0 in data/05046-4900
+data/05001-340010.bmp scores 4 in data/05048-1800
+data/05001-340010.bmp scores 1 in data/05048-1900
+data/05001-340010.bmp scores 1 in data/05052-2400
+data/05001-340010.bmp scores 1 in data/05052-2600
+data/05001-340010.bmp scores 0 in data/05055-1200
+
+data/05001-340011.bmp scores 41 in data/05001-3400
+data/05001-340011.bmp scores 7 in data/05001-5200
+data/05001-340011.bmp scores 38 in data/05009-1400
+data/05001-340011.bmp scores 7 in data/05046-4900
+data/05001-340011.bmp scores 47 in data/05048-1800
+data/05001-340011.bmp scores 82 in data/05048-1900
+data/05001-340011.bmp scores 9 in data/05052-2400
+data/05001-340011.bmp scores 0 in data/05052-2600
+data/05001-340011.bmp scores 39 in data/05055-1200
+
+data/05001-340012.bmp scores 6 in data/05001-3400
+data/05001-340012.bmp scores 0 in data/05001-5200
+data/05001-340012.bmp scores -1 in data/05009-1400
+data/05001-340012.bmp scores 2 in data/05046-4900
+data/05001-340012.bmp scores 2 in data/05048-1800
+data/05001-340012.bmp scores 2 in data/05048-1900
+data/05001-340012.bmp scores 1 in data/05052-2400
+data/05001-340012.bmp scores 0 in data/05052-2600
+data/05001-340012.bmp scores 0 in data/05055-1200
+
+data/05001-340013.bmp scores 15 in data/05001-3400
+data/05001-340013.bmp scores 2 in data/05001-5200
+data/05001-340013.bmp scores 4 in data/05009-1400
+data/05001-340013.bmp scores -1 in data/05046-4900
+data/05001-340013.bmp scores 6 in data/05048-1800
+data/05001-340013.bmp scores 13 in data/05048-1900
+data/05001-340013.bmp scores 4 in data/05052-2400
+data/05001-340013.bmp scores 1 in data/05052-2600
+data/05001-340013.bmp scores 3 in data/05055-1200
+
+data/05001-340014.bmp scores 98 in data/05001-3400
+data/05001-340014.bmp scores 1 in data/05001-5200
+data/05001-340014.bmp scores 59 in data/05009-1400
+data/05001-340014.bmp scores 31 in data/05046-4900
+data/05001-340014.bmp scores 82 in data/05048-1800
+data/05001-340014.bmp scores 104 in data/05048-1900
+data/05001-340014.bmp scores 29 in data/05052-2400
+data/05001-340014.bmp scores 0 in data/05052-2600
+data/05001-340014.bmp scores 101 in data/05055-1200
+
+data/05001-340015.bmp scores 64 in data/05001-3400
+data/05001-340015.bmp scores 3 in data/05001-5200
+data/05001-340015.bmp scores 12 in data/05009-1400
+data/05001-340015.bmp scores 1 in data/05046-4900
+data/05001-340015.bmp scores 20 in data/05048-1800
+data/05001-340015.bmp scores 28 in data/05048-1900
+data/05001-340015.bmp scores 8 in data/05052-2400
+data/05001-340015.bmp scores 2 in data/05052-2600
+data/05001-340015.bmp scores 24 in data/05055-1200
+
+data/05001-340016.bmp scores 80 in data/05001-3400
+data/05001-340016.bmp scores 3 in data/05001-5200
+data/05001-340016.bmp scores 36 in data/05009-1400
+data/05001-340016.bmp scores 14 in data/05046-4900
+data/05001-340016.bmp scores 57 in data/05048-1800
+data/05001-340016.bmp scores 76 in data/05048-1900
+data/05001-340016.bmp scores 23 in data/05052-2400
+data/05001-340016.bmp scores 1 in data/05052-2600
+data/05001-340016.bmp scores 59 in data/05055-1200
+
+data/05001-340017.bmp scores 83 in data/05001-3400
+data/05001-340017.bmp scores 1 in data/05001-5200
+data/05001-340017.bmp scores 16 in data/05009-1400
+data/05001-340017.bmp scores 13 in data/05046-4900
+data/05001-340017.bmp scores 26 in data/05048-1800
+data/05001-340017.bmp scores 39 in data/05048-1900
+data/05001-340017.bmp scores 14 in data/05052-2400
+data/05001-340017.bmp scores 0 in data/05052-2600
+data/05001-340017.bmp scores 22 in data/05055-1200
+
+data/05001-340018.bmp scores 32 in data/05001-3400
+data/05001-340018.bmp scores 8 in data/05001-5200
+data/05001-340018.bmp scores 10 in data/05009-1400
+data/05001-340018.bmp scores 0 in data/05046-4900
+data/05001-340018.bmp scores 15 in data/05048-1800
+data/05001-340018.bmp scores 24 in data/05048-1900
+data/05001-340018.bmp scores 10 in data/05052-2400
+data/05001-340018.bmp scores 7 in data/05052-2600
+data/05001-340018.bmp scores 16 in data/05055-1200
+
+data/05001-340019.bmp scores 46 in data/05001-3400
+data/05001-340019.bmp scores 0 in data/05001-5200
+data/05001-340019.bmp scores 18 in data/05009-1400
+data/05001-340019.bmp scores 10 in data/05046-4900
+data/05001-340019.bmp scores 27 in data/05048-1800
+data/05001-340019.bmp scores 36 in data/05048-1900
+data/05001-340019.bmp scores 10 in data/05052-2400
+data/05001-340019.bmp scores 0 in data/05052-2600
+data/05001-340019.bmp scores 31 in data/05055-1200
+
+data/05001-340020.bmp scores 45 in data/05001-3400
+data/05001-340020.bmp scores 0 in data/05001-5200
+data/05001-340020.bmp scores 11 in data/05009-1400
+data/05001-340020.bmp scores 2 in data/05046-4900
+data/05001-340020.bmp scores 16 in data/05048-1800
+data/05001-340020.bmp scores 20 in data/05048-1900
+data/05001-340020.bmp scores 2 in data/05052-2400
+data/05001-340020.bmp scores 0 in data/05052-2600
+data/05001-340020.bmp scores 10 in data/05055-1200
+
+data/05001-340021.bmp scores 87 in data/05001-3400
+data/05001-340021.bmp scores 4 in data/05001-5200
+data/05001-340021.bmp scores 16 in data/05009-1400
+data/05001-340021.bmp scores 9 in data/05046-4900
+data/05001-340021.bmp scores 19 in data/05048-1800
+data/05001-340021.bmp scores 31 in data/05048-1900
+data/05001-340021.bmp scores 8 in data/05052-2400
+data/05001-340021.bmp scores 0 in data/05052-2600
+data/05001-340021.bmp scores 13 in data/05055-1200
+
+data/05001-340022.bmp scores 71 in data/05001-3400
+data/05001-340022.bmp scores 0 in data/05001-5200
+data/05001-340022.bmp scores 13 in data/05009-1400
+data/05001-340022.bmp scores 7 in data/05046-4900
+data/05001-340022.bmp scores 17 in data/05048-1800
+data/05001-340022.bmp scores 24 in data/05048-1900
+data/05001-340022.bmp scores 3 in data/05052-2400
+data/05001-340022.bmp scores 0 in data/05052-2600
+data/05001-340022.bmp scores 9 in data/05055-1200
+
+data/05001-340023.bmp scores 40 in data/05001-3400
+data/05001-340023.bmp scores 4 in data/05001-5200
+data/05001-340023.bmp scores 2 in data/05009-1400
+data/05001-340023.bmp scores 1 in data/05046-4900
+data/05001-340023.bmp scores 8 in data/05048-1800
+data/05001-340023.bmp scores 12 in data/05048-1900
+data/05001-340023.bmp scores 5 in data/05052-2400
+data/05001-340023.bmp scores 1 in data/05052-2600
+data/05001-340023.bmp scores 6 in data/05055-1200
+
+data/05001-340024.bmp scores 97 in data/05001-3400
+data/05001-340024.bmp scores 3 in data/05001-5200
+data/05001-340024.bmp scores 23 in data/05009-1400
+data/05001-340024.bmp scores 12 in data/05046-4900
+data/05001-340024.bmp scores 31 in data/05048-1800
+data/05001-340024.bmp scores 33 in data/05048-1900
+data/05001-340024.bmp scores 20 in data/05052-2400
+data/05001-340024.bmp scores 1 in data/05052-2600
+data/05001-340024.bmp scores 32 in data/05055-1200
+
+data/05001-340025.bmp scores 85 in data/05001-3400
+data/05001-340025.bmp scores 6 in data/05001-5200
+data/05001-340025.bmp scores 51 in data/05009-1400
+data/05001-340025.bmp scores 20 in data/05046-4900
+data/05001-340025.bmp scores 56 in data/05048-1800
+data/05001-340025.bmp scores 90 in data/05048-1900
+data/05001-340025.bmp scores 14 in data/05052-2400
+data/05001-340025.bmp scores 6 in data/05052-2600
+data/05001-340025.bmp scores 67 in data/05055-1200
+
+data/05001-340026.bmp scores 43 in data/05001-3400
+data/05001-340026.bmp scores 0 in data/05001-5200
+data/05001-340026.bmp scores 18 in data/05009-1400
+data/05001-340026.bmp scores 8 in data/05046-4900
+data/05001-340026.bmp scores 30 in data/05048-1800
+data/05001-340026.bmp scores 34 in data/05048-1900
+data/05001-340026.bmp scores 6 in data/05052-2400
+data/05001-340026.bmp scores 1 in data/05052-2600
+data/05001-340026.bmp scores 30 in data/05055-1200
+
+data/05001-340027.bmp scores 40 in data/05001-3400
+data/05001-340027.bmp scores 1 in data/05001-5200
+data/05001-340027.bmp scores 25 in data/05009-1400
+data/05001-340027.bmp scores 3 in data/05046-4900
+data/05001-340027.bmp scores 35 in data/05048-1800
+data/05001-340027.bmp scores 64 in data/05048-1900
+data/05001-340027.bmp scores 7 in data/05052-2400
+data/05001-340027.bmp scores 1 in data/05052-2600
+data/05001-340027.bmp scores 29 in data/05055-1200
+
+data/05001-340028.bmp scores 35 in data/05001-3400
+data/05001-340028.bmp scores 2 in data/05001-5200
+data/05001-340028.bmp scores 9 in data/05009-1400
+data/05001-340028.bmp scores 3 in data/05046-4900
+data/05001-340028.bmp scores 17 in data/05048-1800
+data/05001-340028.bmp scores 25 in data/05048-1900
+data/05001-340028.bmp scores 8 in data/05052-2400
+data/05001-340028.bmp scores 0 in data/05052-2600
+data/05001-340028.bmp scores 21 in data/05055-1200
+
+data/05001-340029.bmp scores 27 in data/05001-3400
+data/05001-340029.bmp scores 2 in data/05001-5200
+data/05001-340029.bmp scores 31 in data/05009-1400
+data/05001-340029.bmp scores 2 in data/05046-4900
+data/05001-340029.bmp scores 23 in data/05048-1800
+data/05001-340029.bmp scores 51 in data/05048-1900
+data/05001-340029.bmp scores 6 in data/05052-2400
+data/05001-340029.bmp scores 0 in data/05052-2600
+data/05001-340029.bmp scores 19 in data/05055-1200
+
+data/05001-340030.bmp scores 55 in data/05001-3400
+data/05001-340030.bmp scores 7 in data/05001-5200
+data/05001-340030.bmp scores 21 in data/05009-1400
+data/05001-340030.bmp scores 15 in data/05046-4900
+data/05001-340030.bmp scores 26 in data/05048-1800
+data/05001-340030.bmp scores 49 in data/05048-1900
+data/05001-340030.bmp scores 12 in data/05052-2400
+data/05001-340030.bmp scores 1 in data/05052-2600
+data/05001-340030.bmp scores 35 in data/05055-1200
+
+data/05001-340031.bmp scores 72 in data/05001-3400
+data/05001-340031.bmp scores 0 in data/05001-5200
+data/05001-340031.bmp scores 22 in data/05009-1400
+data/05001-340031.bmp scores 8 in data/05046-4900
+data/05001-340031.bmp scores 28 in data/05048-1800
+data/05001-340031.bmp scores 44 in data/05048-1900
+data/05001-340031.bmp scores 13 in data/05052-2400
+data/05001-340031.bmp scores 0 in data/05052-2600
+data/05001-340031.bmp scores 22 in data/05055-1200
+
+data/05001-340032.bmp scores 27 in data/05001-3400
+data/05001-340032.bmp scores 2 in data/05001-5200
+data/05001-340032.bmp scores 8 in data/05009-1400
+data/05001-340032.bmp scores 1 in data/05046-4900
+data/05001-340032.bmp scores 17 in data/05048-1800
+data/05001-340032.bmp scores 19 in data/05048-1900
+data/05001-340032.bmp scores 4 in data/05052-2400
+data/05001-340032.bmp scores 1 in data/05052-2600
+data/05001-340032.bmp scores 17 in data/05055-1200
+
+data/05001-340033.bmp scores 85 in data/05001-3400
+data/05001-340033.bmp scores 1 in data/05001-5200
+data/05001-340033.bmp scores 57 in data/05009-1400
+data/05001-340033.bmp scores 38 in data/05046-4900
+data/05001-340033.bmp scores 70 in data/05048-1800
+data/05001-340033.bmp scores 91 in data/05048-1900
+data/05001-340033.bmp scores 18 in data/05052-2400
+data/05001-340033.bmp scores 0 in data/05052-2600
+data/05001-340033.bmp scores 85 in data/05055-1200
+
+data/05001-340034.bmp scores 84 in data/05001-3400
+data/05001-340034.bmp scores 0 in data/05001-5200
+data/05001-340034.bmp scores 41 in data/05009-1400
+data/05001-340034.bmp scores 20 in data/05046-4900
+data/05001-340034.bmp scores 54 in data/05048-1800
+data/05001-340034.bmp scores 70 in data/05048-1900
+data/05001-340034.bmp scores 16 in data/05052-2400
+data/05001-340034.bmp scores 0 in data/05052-2600
+data/05001-340034.bmp scores 56 in data/05055-1200
+
+data/05001-340035.bmp scores 53 in data/05001-3400
+data/05001-340035.bmp scores 4 in data/05001-5200
+data/05001-340035.bmp scores 11 in data/05009-1400
+data/05001-340035.bmp scores 11 in data/05046-4900
+data/05001-340035.bmp scores 20 in data/05048-1800
+data/05001-340035.bmp scores 35 in data/05048-1900
+data/05001-340035.bmp scores 12 in data/05052-2400
+data/05001-340035.bmp scores 1 in data/05052-2600
+data/05001-340035.bmp scores 14 in data/05055-1200
+
+data/05001-340036.bmp scores 48 in data/05001-3400
+data/05001-340036.bmp scores 3 in data/05001-5200
+data/05001-340036.bmp scores 3 in data/05009-1400
+data/05001-340036.bmp scores 2 in data/05046-4900
+data/05001-340036.bmp scores 15 in data/05048-1800
+data/05001-340036.bmp scores 27 in data/05048-1900
+data/05001-340036.bmp scores 10 in data/05052-2400
+data/05001-340036.bmp scores 0 in data/05052-2600
+data/05001-340036.bmp scores 18 in data/05055-1200
+
+data/05001-340037.bmp scores 51 in data/05001-3400
+data/05001-340037.bmp scores 3 in data/05001-5200
+data/05001-340037.bmp scores 36 in data/05009-1400
+data/05001-340037.bmp scores 6 in data/05046-4900
+data/05001-340037.bmp scores 34 in data/05048-1800
+data/05001-340037.bmp scores 51 in data/05048-1900
+data/05001-340037.bmp scores 6 in data/05052-2400
+data/05001-340037.bmp scores 1 in data/05052-2600
+data/05001-340037.bmp scores 21 in data/05055-1200
+
+data/05001-340038.bmp scores 76 in data/05001-3400
+data/05001-340038.bmp scores 2 in data/05001-5200
+data/05001-340038.bmp scores 2 in data/05009-1400
+data/05001-340038.bmp scores 11 in data/05046-4900
+data/05001-340038.bmp scores 15 in data/05048-1800
+data/05001-340038.bmp scores 10 in data/05048-1900
+data/05001-340038.bmp scores 28 in data/05052-2400
+data/05001-340038.bmp scores 2 in data/05052-2600
+data/05001-340038.bmp scores 2 in data/05055-1200
+
+data/05001-340039.bmp scores 53 in data/05001-3400
+data/05001-340039.bmp scores 2 in data/05001-5200
+data/05001-340039.bmp scores 2 in data/05009-1400
+data/05001-340039.bmp scores 2 in data/05046-4900
+data/05001-340039.bmp scores 4 in data/05048-1800
+data/05001-340039.bmp scores 3 in data/05048-1900
+data/05001-340039.bmp scores 7 in data/05052-2400
+data/05001-340039.bmp scores 5 in data/05052-2600
+data/05001-340039.bmp scores 3 in data/05055-1200
+
+data/05001-340040.bmp scores 46 in data/05001-3400
+data/05001-340040.bmp scores 0 in data/05001-5200
+data/05001-340040.bmp scores 14 in data/05009-1400
+data/05001-340040.bmp scores 3 in data/05046-4900
+data/05001-340040.bmp scores 13 in data/05048-1800
+data/05001-340040.bmp scores 26 in data/05048-1900
+data/05001-340040.bmp scores 13 in data/05052-2400
+data/05001-340040.bmp scores 0 in data/05052-2600
+data/05001-340040.bmp scores 16 in data/05055-1200
+
+data/05001-340041.bmp scores 50 in data/05001-3400
+data/05001-340041.bmp scores 0 in data/05001-5200
+data/05001-340041.bmp scores 1 in data/05009-1400
+data/05001-340041.bmp scores -1 in data/05046-4900
+data/05001-340041.bmp scores 4 in data/05048-1800
+data/05001-340041.bmp scores 8 in data/05048-1900
+data/05001-340041.bmp scores 16 in data/05052-2400
+data/05001-340041.bmp scores 7 in data/05052-2600
+data/05001-340041.bmp scores 3 in data/05055-1200
+
+data/05001-340042.bmp scores 82 in data/05001-3400
+data/05001-340042.bmp scores 8 in data/05001-5200
+data/05001-340042.bmp scores 15 in data/05009-1400
+data/05001-340042.bmp scores 10 in data/05046-4900
+data/05001-340042.bmp scores 11 in data/05048-1800
+data/05001-340042.bmp scores 17 in data/05048-1900
+data/05001-340042.bmp scores 15 in data/05052-2400
+data/05001-340042.bmp scores 15 in data/05052-2600
+data/05001-340042.bmp scores 15 in data/05055-1200
+
+data/05001-340043.bmp scores 94 in data/05001-3400
+data/05001-340043.bmp scores 1 in data/05001-5200
+data/05001-340043.bmp scores 37 in data/05009-1400
+data/05001-340043.bmp scores 21 in data/05046-4900
+data/05001-340043.bmp scores 49 in data/05048-1800
+data/05001-340043.bmp scores 71 in data/05048-1900
+data/05001-340043.bmp scores 28 in data/05052-2400
+data/05001-340043.bmp scores 2 in data/05052-2600
+data/05001-340043.bmp scores 46 in data/05055-1200
+
+data/05001-340044.bmp scores 79 in data/05001-3400
+data/05001-340044.bmp scores 2 in data/05001-5200
+data/05001-340044.bmp scores 11 in data/05009-1400
+data/05001-340044.bmp scores -1 in data/05046-4900
+data/05001-340044.bmp scores 32 in data/05048-1800
+data/05001-340044.bmp scores 37 in data/05048-1900
+data/05001-340044.bmp scores 14 in data/05052-2400
+data/05001-340044.bmp scores 8 in data/05052-2600
+data/05001-340044.bmp scores 27 in data/05055-1200
+
+data/05001-340045.bmp scores 83 in data/05001-3400
+data/05001-340045.bmp scores 5 in data/05001-5200
+data/05001-340045.bmp scores 10 in data/05009-1400
+data/05001-340045.bmp scores -1 in data/05046-4900
+data/05001-340045.bmp scores 11 in data/05048-1800
+data/05001-340045.bmp scores 14 in data/05048-1900
+data/05001-340045.bmp scores 27 in data/05052-2400
+data/05001-340045.bmp scores 13 in data/05052-2600
+data/05001-340045.bmp scores 6 in data/05055-1200
+
+data/05001-340046.bmp scores 12 in data/05001-3400
+data/05001-340046.bmp scores 0 in data/05001-5200
+data/05001-340046.bmp scores 2 in data/05009-1400
+data/05001-340046.bmp scores -2 in data/05046-4900
+data/05001-340046.bmp scores 3 in data/05048-1800
+data/05001-340046.bmp scores 1 in data/05048-1900
+data/05001-340046.bmp scores 2 in data/05052-2400
+data/05001-340046.bmp scores 0 in data/05052-2600
+data/05001-340046.bmp scores 0 in data/05055-1200
+
+data/05001-340047.bmp scores 36 in data/05001-3400
+data/05001-340047.bmp scores 0 in data/05001-5200
+data/05001-340047.bmp scores 1 in data/05009-1400
+data/05001-340047.bmp scores -1 in data/05046-4900
+data/05001-340047.bmp scores 11 in data/05048-1800
+data/05001-340047.bmp scores 4 in data/05048-1900
+data/05001-340047.bmp scores 2 in data/05052-2400
+data/05001-340047.bmp scores 0 in data/05052-2600
+data/05001-340047.bmp scores 3 in data/05055-1200
+
+data/05001-340048.bmp scores 41 in data/05001-3400
+data/05001-340048.bmp scores 5 in data/05001-5200
+data/05001-340048.bmp scores 12 in data/05009-1400
+data/05001-340048.bmp scores 13 in data/05046-4900
+data/05001-340048.bmp scores 23 in data/05048-1800
+data/05001-340048.bmp scores 18 in data/05048-1900
+data/05001-340048.bmp scores 15 in data/05052-2400
+data/05001-340048.bmp scores 2 in data/05052-2600
+data/05001-340048.bmp scores 23 in data/05055-1200
+
+data/05001-340049.bmp scores 36 in data/05001-3400
+data/05001-340049.bmp scores 0 in data/05001-5200
+data/05001-340049.bmp scores 2 in data/05009-1400
+data/05001-340049.bmp scores 1 in data/05046-4900
+data/05001-340049.bmp scores 5 in data/05048-1800
+data/05001-340049.bmp scores 8 in data/05048-1900
+data/05001-340049.bmp scores 3 in data/05052-2400
+data/05001-340049.bmp scores 10 in data/05052-2600
+data/05001-340049.bmp scores 4 in data/05055-1200
+
+data/05001-340050.bmp scores 112 in data/05001-3400
+data/05001-340050.bmp scores 0 in data/05001-5200
+data/05001-340050.bmp scores 28 in data/05009-1400
+data/05001-340050.bmp scores 17 in data/05046-4900
+data/05001-340050.bmp scores 37 in data/05048-1800
+data/05001-340050.bmp scores 67 in data/05048-1900
+data/05001-340050.bmp scores 21 in data/05052-2400
+data/05001-340050.bmp scores 19 in data/05052-2600
+data/05001-340050.bmp scores 26 in data/05055-1200
+
+data/05001-340051.bmp scores 128 in data/05001-3400
+data/05001-340051.bmp scores 7 in data/05001-5200
+data/05001-340051.bmp scores 37 in data/05009-1400
+data/05001-340051.bmp scores 14 in data/05046-4900
+data/05001-340051.bmp scores 46 in data/05048-1800
+data/05001-340051.bmp scores 84 in data/05048-1900
+data/05001-340051.bmp scores 22 in data/05052-2400
+data/05001-340051.bmp scores 33 in data/05052-2600
+data/05001-340051.bmp scores 45 in data/05055-1200
+
+data/05001-340052.bmp scores 75 in data/05001-3400
+data/05001-340052.bmp scores 3 in data/05001-5200
+data/05001-340052.bmp scores 7 in data/05009-1400
+data/05001-340052.bmp scores 7 in data/05046-4900
+data/05001-340052.bmp scores 9 in data/05048-1800
+data/05001-340052.bmp scores 18 in data/05048-1900
+data/05001-340052.bmp scores 26 in data/05052-2400
+data/05001-340052.bmp scores 12 in data/05052-2600
+data/05001-340052.bmp scores 6 in data/05055-1200
+
+data/05001-340053.bmp scores 78 in data/05001-3400
+data/05001-340053.bmp scores 5 in data/05001-5200
+data/05001-340053.bmp scores 9 in data/05009-1400
+data/05001-340053.bmp scores 10 in data/05046-4900
+data/05001-340053.bmp scores 14 in data/05048-1800
+data/05001-340053.bmp scores 39 in data/05048-1900
+data/05001-340053.bmp scores 26 in data/05052-2400
+data/05001-340053.bmp scores 16 in data/05052-2600
+data/05001-340053.bmp scores 6 in data/05055-1200
+
+data/05001-340054.bmp scores 26 in data/05001-3400
+data/05001-340054.bmp scores 0 in data/05001-5200
+data/05001-340054.bmp scores 6 in data/05009-1400
+data/05001-340054.bmp scores -1 in data/05046-4900
+data/05001-340054.bmp scores 15 in data/05048-1800
+data/05001-340054.bmp scores 10 in data/05048-1900
+data/05001-340054.bmp scores 6 in data/05052-2400
+data/05001-340054.bmp scores 9 in data/05052-2600
+data/05001-340054.bmp scores 9 in data/05055-1200
+
+data/05001-340055.bmp scores 90 in data/05001-3400
+data/05001-340055.bmp scores 11 in data/05001-5200
+data/05001-340055.bmp scores 43 in data/05009-1400
+data/05001-340055.bmp scores 21 in data/05046-4900
+data/05001-340055.bmp scores 32 in data/05048-1800
+data/05001-340055.bmp scores 62 in data/05048-1900
+data/05001-340055.bmp scores 21 in data/05052-2400
+data/05001-340055.bmp scores 26 in data/05052-2600
+data/05001-340055.bmp scores 32 in data/05055-1200
+
+data/05001-340056.bmp scores 23 in data/05001-3400
+data/05001-340056.bmp scores 2 in data/05001-5200
+data/05001-340056.bmp scores 5 in data/05009-1400
+data/05001-340056.bmp scores -2 in data/05046-4900
+data/05001-340056.bmp scores 3 in data/05048-1800
+data/05001-340056.bmp scores 17 in data/05048-1900
+data/05001-340056.bmp scores 3 in data/05052-2400
+data/05001-340056.bmp scores 0 in data/05052-2600
+data/05001-340056.bmp scores 5 in data/05055-1200
+
+data/05001-340057.bmp scores 72 in data/05001-3400
+data/05001-340057.bmp scores 10 in data/05001-5200
+data/05001-340057.bmp scores 9 in data/05009-1400
+data/05001-340057.bmp scores 11 in data/05046-4900
+data/05001-340057.bmp scores 23 in data/05048-1800
+data/05001-340057.bmp scores 37 in data/05048-1900
+data/05001-340057.bmp scores 20 in data/05052-2400
+data/05001-340057.bmp scores 22 in data/05052-2600
+data/05001-340057.bmp scores 16 in data/05055-1200
+
+data/05001-340058.bmp scores 45 in data/05001-3400
+data/05001-340058.bmp scores 0 in data/05001-5200
+data/05001-340058.bmp scores 0 in data/05009-1400
+data/05001-340058.bmp scores 1 in data/05046-4900
+data/05001-340058.bmp scores 8 in data/05048-1800
+data/05001-340058.bmp scores 8 in data/05048-1900
+data/05001-340058.bmp scores 0 in data/05052-2400
+data/05001-340058.bmp scores 0 in data/05052-2600
+data/05001-340058.bmp scores 1 in data/05055-1200
+
+data/05001-340059.bmp scores 29 in data/05001-3400
+data/05001-340059.bmp scores 5 in data/05001-5200
+data/05001-340059.bmp scores 0 in data/05009-1400
+data/05001-340059.bmp scores -2 in data/05046-4900
+data/05001-340059.bmp scores 0 in data/05048-1800
+data/05001-340059.bmp scores 0 in data/05048-1900
+data/05001-340059.bmp scores 2 in data/05052-2400
+data/05001-340059.bmp scores 0 in data/05052-2600
+data/05001-340059.bmp scores 0 in data/05055-1200
+
+data/05001-340060.bmp scores 51 in data/05001-3400
+data/05001-340060.bmp scores 0 in data/05001-5200
+data/05001-340060.bmp scores 1 in data/05009-1400
+data/05001-340060.bmp scores 3 in data/05046-4900
+data/05001-340060.bmp scores 7 in data/05048-1800
+data/05001-340060.bmp scores 5 in data/05048-1900
+data/05001-340060.bmp scores 6 in data/05052-2400
+data/05001-340060.bmp scores 1 in data/05052-2600
+data/05001-340060.bmp scores 2 in data/05055-1200
+
+data/05001-340061.bmp scores 52 in data/05001-3400
+data/05001-340061.bmp scores 0 in data/05001-5200
+data/05001-340061.bmp scores 7 in data/05009-1400
+data/05001-340061.bmp scores 5 in data/05046-4900
+data/05001-340061.bmp scores 17 in data/05048-1800
+data/05001-340061.bmp scores 11 in data/05048-1900
+data/05001-340061.bmp scores 19 in data/05052-2400
+data/05001-340061.bmp scores 0 in data/05052-2600
+data/05001-340061.bmp scores 3 in data/05055-1200
+
+data/05001-340062.bmp scores 40 in data/05001-3400
+data/05001-340062.bmp scores 18 in data/05001-5200
+data/05001-340062.bmp scores 9 in data/05009-1400
+data/05001-340062.bmp scores 2 in data/05046-4900
+data/05001-340062.bmp scores 15 in data/05048-1800
+data/05001-340062.bmp scores 16 in data/05048-1900
+data/05001-340062.bmp scores 11 in data/05052-2400
+data/05001-340062.bmp scores 29 in data/05052-2600
+data/05001-340062.bmp scores 18 in data/05055-1200
+
+data/05001-340063.bmp scores 64 in data/05001-3400
+data/05001-340063.bmp scores 0 in data/05001-5200
+data/05001-340063.bmp scores 3 in data/05009-1400
+data/05001-340063.bmp scores -1 in data/05046-4900
+data/05001-340063.bmp scores 21 in data/05048-1800
+data/05001-340063.bmp scores 21 in data/05048-1900
+data/05001-340063.bmp scores 11 in data/05052-2400
+data/05001-340063.bmp scores 8 in data/05052-2600
+data/05001-340063.bmp scores 14 in data/05055-1200
+
+data/05001-340064.bmp scores 43 in data/05001-3400
+data/05001-340064.bmp scores 1 in data/05001-5200
+data/05001-340064.bmp scores 2 in data/05009-1400
+data/05001-340064.bmp scores 2 in data/05046-4900
+data/05001-340064.bmp scores 7 in data/05048-1800
+data/05001-340064.bmp scores 6 in data/05048-1900
+data/05001-340064.bmp scores 2 in data/05052-2400
+data/05001-340064.bmp scores 0 in data/05052-2600
+data/05001-340064.bmp scores 7 in data/05055-1200
+
+data/05001-340065.bmp scores 13 in data/05001-3400
+data/05001-340065.bmp scores 0 in data/05001-5200
+data/05001-340065.bmp scores 5 in data/05009-1400
+data/05001-340065.bmp scores 2 in data/05046-4900
+data/05001-340065.bmp scores 8 in data/05048-1800
+data/05001-340065.bmp scores 5 in data/05048-1900
+data/05001-340065.bmp scores 25 in data/05052-2400
+data/05001-340065.bmp scores 0 in data/05052-2600
+data/05001-340065.bmp scores 2 in data/05055-1200
+
+data/05001-340066.bmp scores 48 in data/05001-3400
+data/05001-340066.bmp scores 3 in data/05001-5200
+data/05001-340066.bmp scores 21 in data/05009-1400
+data/05001-340066.bmp scores 11 in data/05046-4900
+data/05001-340066.bmp scores 38 in data/05048-1800
+data/05001-340066.bmp scores 26 in data/05048-1900
+data/05001-340066.bmp scores 13 in data/05052-2400
+data/05001-340066.bmp scores 4 in data/05052-2600
+data/05001-340066.bmp scores 55 in data/05055-1200
+
+data/05001-340067.bmp scores 47 in data/05001-3400
+data/05001-340067.bmp scores 0 in data/05001-5200
+data/05001-340067.bmp scores 7 in data/05009-1400
+data/05001-340067.bmp scores 5 in data/05046-4900
+data/05001-340067.bmp scores 11 in data/05048-1800
+data/05001-340067.bmp scores 23 in data/05048-1900
+data/05001-340067.bmp scores 6 in data/05052-2400
+data/05001-340067.bmp scores 9 in data/05052-2600
+data/05001-340067.bmp scores 10 in data/05055-1200
+
+data/05001-340068.bmp scores 65 in data/05001-3400
+data/05001-340068.bmp scores 0 in data/05001-5200
+data/05001-340068.bmp scores 25 in data/05009-1400
+data/05001-340068.bmp scores 12 in data/05046-4900
+data/05001-340068.bmp scores 35 in data/05048-1800
+data/05001-340068.bmp scores 48 in data/05048-1900
+data/05001-340068.bmp scores 10 in data/05052-2400
+data/05001-340068.bmp scores 6 in data/05052-2600
+data/05001-340068.bmp scores 39 in data/05055-1200
+
+data/05001-340069.bmp scores 50 in data/05001-3400
+data/05001-340069.bmp scores 24 in data/05001-5200
+data/05001-340069.bmp scores 10 in data/05009-1400
+data/05001-340069.bmp scores 3 in data/05046-4900
+data/05001-340069.bmp scores 16 in data/05048-1800
+data/05001-340069.bmp scores 19 in data/05048-1900
+data/05001-340069.bmp scores 9 in data/05052-2400
+data/05001-340069.bmp scores 2 in data/05052-2600
+data/05001-340069.bmp scores 20 in data/05055-1200
+
+data/05001-340070.bmp scores 69 in data/05001-3400
+data/05001-340070.bmp scores 0 in data/05001-5200
+data/05001-340070.bmp scores 17 in data/05009-1400
+data/05001-340070.bmp scores 10 in data/05046-4900
+data/05001-340070.bmp scores 21 in data/05048-1800
+data/05001-340070.bmp scores 34 in data/05048-1900
+data/05001-340070.bmp scores 3 in data/05052-2400
+data/05001-340070.bmp scores 1 in data/05052-2600
+data/05001-340070.bmp scores 25 in data/05055-1200
+
+data/05001-340071.bmp scores 31 in data/05001-3400
+data/05001-340071.bmp scores 0 in data/05001-5200
+data/05001-340071.bmp scores 3 in data/05009-1400
+data/05001-340071.bmp scores 0 in data/05046-4900
+data/05001-340071.bmp scores 15 in data/05048-1800
+data/05001-340071.bmp scores 11 in data/05048-1900
+data/05001-340071.bmp scores 6 in data/05052-2400
+data/05001-340071.bmp scores 1 in data/05052-2600
+data/05001-340071.bmp scores 10 in data/05055-1200
+
+data/05001-340072.bmp scores 65 in data/05001-3400
+data/05001-340072.bmp scores 5 in data/05001-5200
+data/05001-340072.bmp scores 9 in data/05009-1400
+data/05001-340072.bmp scores 4 in data/05046-4900
+data/05001-340072.bmp scores 16 in data/05048-1800
+data/05001-340072.bmp scores 28 in data/05048-1900
+data/05001-340072.bmp scores 11 in data/05052-2400
+data/05001-340072.bmp scores 1 in data/05052-2600
+data/05001-340072.bmp scores 26 in data/05055-1200
+
+data/05001-340073.bmp scores 64 in data/05001-3400
+data/05001-340073.bmp scores 1 in data/05001-5200
+data/05001-340073.bmp scores 10 in data/05009-1400
+data/05001-340073.bmp scores 5 in data/05046-4900
+data/05001-340073.bmp scores 12 in data/05048-1800
+data/05001-340073.bmp scores 25 in data/05048-1900
+data/05001-340073.bmp scores 6 in data/05052-2400
+data/05001-340073.bmp scores 15 in data/05052-2600
+data/05001-340073.bmp scores 24 in data/05055-1200
+
+data/05001-340074.bmp scores 96 in data/05001-3400
+data/05001-340074.bmp scores 2 in data/05001-5200
+data/05001-340074.bmp scores 53 in data/05009-1400
+data/05001-340074.bmp scores 29 in data/05046-4900
+data/05001-340074.bmp scores 57 in data/05048-1800
+data/05001-340074.bmp scores 104 in data/05048-1900
+data/05001-340074.bmp scores 18 in data/05052-2400
+data/05001-340074.bmp scores 0 in data/05052-2600
+data/05001-340074.bmp scores 81 in data/05055-1200
+
+data/05001-340075.bmp scores 47 in data/05001-3400
+data/05001-340075.bmp scores 1 in data/05001-5200
+data/05001-340075.bmp scores 7 in data/05009-1400
+data/05001-340075.bmp scores 0 in data/05046-4900
+data/05001-340075.bmp scores 17 in data/05048-1800
+data/05001-340075.bmp scores 28 in data/05048-1900
+data/05001-340075.bmp scores 6 in data/05052-2400
+data/05001-340075.bmp scores 3 in data/05052-2600
+data/05001-340075.bmp scores 10 in data/05055-1200
+
+data/05001-340076.bmp scores 84 in data/05001-3400
+data/05001-340076.bmp scores 1 in data/05001-5200
+data/05001-340076.bmp scores 7 in data/05009-1400
+data/05001-340076.bmp scores 0 in data/05046-4900
+data/05001-340076.bmp scores 10 in data/05048-1800
+data/05001-340076.bmp scores 11 in data/05048-1900
+data/05001-340076.bmp scores 6 in data/05052-2400
+data/05001-340076.bmp scores 4 in data/05052-2600
+data/05001-340076.bmp scores 7 in data/05055-1200
+
+data/05001-340077.bmp scores 108 in data/05001-3400
+data/05001-340077.bmp scores 10 in data/05001-5200
+data/05001-340077.bmp scores 10 in data/05009-1400
+data/05001-340077.bmp scores 2 in data/05046-4900
+data/05001-340077.bmp scores 20 in data/05048-1800
+data/05001-340077.bmp scores 27 in data/05048-1900
+data/05001-340077.bmp scores 17 in data/05052-2400
+data/05001-340077.bmp scores 5 in data/05052-2600
+data/05001-340077.bmp scores 10 in data/05055-1200
+
+data/05001-340078.bmp scores 121 in data/05001-3400
+data/05001-340078.bmp scores 13 in data/05001-5200
+data/05001-340078.bmp scores 29 in data/05009-1400
+data/05001-340078.bmp scores 7 in data/05046-4900
+data/05001-340078.bmp scores 54 in data/05048-1800
+data/05001-340078.bmp scores 49 in data/05048-1900
+data/05001-340078.bmp scores 23 in data/05052-2400
+data/05001-340078.bmp scores 23 in data/05052-2600
+data/05001-340078.bmp scores 37 in data/05055-1200
+
+data/05001-340079.bmp scores 80 in data/05001-3400
+data/05001-340079.bmp scores 4 in data/05001-5200
+data/05001-340079.bmp scores 29 in data/05009-1400
+data/05001-340079.bmp scores 14 in data/05046-4900
+data/05001-340079.bmp scores 49 in data/05048-1800
+data/05001-340079.bmp scores 71 in data/05048-1900
+data/05001-340079.bmp scores 19 in data/05052-2400
+data/05001-340079.bmp scores 4 in data/05052-2600
+data/05001-340079.bmp scores 58 in data/05055-1200
+
+data/05001-340080.bmp scores 79 in data/05001-3400
+data/05001-340080.bmp scores 8 in data/05001-5200
+data/05001-340080.bmp scores 3 in data/05009-1400
+data/05001-340080.bmp scores 2 in data/05046-4900
+data/05001-340080.bmp scores 12 in data/05048-1800
+data/05001-340080.bmp scores 9 in data/05048-1900
+data/05001-340080.bmp scores 5 in data/05052-2400
+data/05001-340080.bmp scores 4 in data/05052-2600
+data/05001-340080.bmp scores 3 in data/05055-1200
+
+data/05001-340081.bmp scores 4 in data/05001-3400
+data/05001-340081.bmp scores 1 in data/05001-5200
+data/05001-340081.bmp scores 1 in data/05009-1400
+data/05001-340081.bmp scores -1 in data/05046-4900
+data/05001-340081.bmp scores 7 in data/05048-1800
+data/05001-340081.bmp scores 9 in data/05048-1900
+data/05001-340081.bmp scores 2 in data/05052-2400
+data/05001-340081.bmp scores 0 in data/05052-2600
+data/05001-340081.bmp scores 3 in data/05055-1200
+
+data/05001-340082.bmp scores 57 in data/05001-3400
+data/05001-340082.bmp scores 2 in data/05001-5200
+data/05001-340082.bmp scores 3 in data/05009-1400
+data/05001-340082.bmp scores 9 in data/05046-4900
+data/05001-340082.bmp scores 12 in data/05048-1800
+data/05001-340082.bmp scores 15 in data/05048-1900
+data/05001-340082.bmp scores 7 in data/05052-2400
+data/05001-340082.bmp scores 1 in data/05052-2600
+data/05001-340082.bmp scores 10 in data/05055-1200
+
+data/05001-340083.bmp scores 61 in data/05001-3400
+data/05001-340083.bmp scores 1 in data/05001-5200
+data/05001-340083.bmp scores 15 in data/05009-1400
+data/05001-340083.bmp scores 11 in data/05046-4900
+data/05001-340083.bmp scores 17 in data/05048-1800
+data/05001-340083.bmp scores 33 in data/05048-1900
+data/05001-340083.bmp scores 8 in data/05052-2400
+data/05001-340083.bmp scores 0 in data/05052-2600
+data/05001-340083.bmp scores 17 in data/05055-1200
+
+data/05001-340084.bmp scores 94 in data/05001-3400
+data/05001-340084.bmp scores 3 in data/05001-5200
+data/05001-340084.bmp scores 53 in data/05009-1400
+data/05001-340084.bmp scores 34 in data/05046-4900
+data/05001-340084.bmp scores 58 in data/05048-1800
+data/05001-340084.bmp scores 89 in data/05048-1900
+data/05001-340084.bmp scores 24 in data/05052-2400
+data/05001-340084.bmp scores 0 in data/05052-2600
+data/05001-340084.bmp scores 77 in data/05055-1200
+
+data/05001-340085.bmp scores 45 in data/05001-3400
+data/05001-340085.bmp scores 0 in data/05001-5200
+data/05001-340085.bmp scores 19 in data/05009-1400
+data/05001-340085.bmp scores 10 in data/05046-4900
+data/05001-340085.bmp scores 21 in data/05048-1800
+data/05001-340085.bmp scores 41 in data/05048-1900
+data/05001-340085.bmp scores 9 in data/05052-2400
+data/05001-340085.bmp scores 1 in data/05052-2600
+data/05001-340085.bmp scores 25 in data/05055-1200
+
+data/05001-340086.bmp scores 17 in data/05001-3400
+data/05001-340086.bmp scores 0 in data/05001-5200
+data/05001-340086.bmp scores 3 in data/05009-1400
+data/05001-340086.bmp scores 2 in data/05046-4900
+data/05001-340086.bmp scores 8 in data/05048-1800
+data/05001-340086.bmp scores 10 in data/05048-1900
+data/05001-340086.bmp scores 3 in data/05052-2400
+data/05001-340086.bmp scores 0 in data/05052-2600
+data/05001-340086.bmp scores 3 in data/05055-1200
+
+data/05001-340087.bmp scores 20 in data/05001-3400
+data/05001-340087.bmp scores 3 in data/05001-5200
+data/05001-340087.bmp scores 3 in data/05009-1400
+data/05001-340087.bmp scores -1 in data/05046-4900
+data/05001-340087.bmp scores 5 in data/05048-1800
+data/05001-340087.bmp scores 10 in data/05048-1900
+data/05001-340087.bmp scores 24 in data/05052-2400
+data/05001-340087.bmp scores 0 in data/05052-2600
+data/05001-340087.bmp scores 6 in data/05055-1200
+
+data/05001-340088.bmp scores 23 in data/05001-3400
+data/05001-340088.bmp scores 2 in data/05001-5200
+data/05001-340088.bmp scores 0 in data/05009-1400
+data/05001-340088.bmp scores 11 in data/05046-4900
+data/05001-340088.bmp scores 6 in data/05048-1800
+data/05001-340088.bmp scores 4 in data/05048-1900
+data/05001-340088.bmp scores 6 in data/05052-2400
+data/05001-340088.bmp scores 0 in data/05052-2600
+data/05001-340088.bmp scores 8 in data/05055-1200
+
+data/05001-340089.bmp scores 83 in data/05001-3400
+data/05001-340089.bmp scores 5 in data/05001-5200
+data/05001-340089.bmp scores 9 in data/05009-1400
+data/05001-340089.bmp scores 3 in data/05046-4900
+data/05001-340089.bmp scores 11 in data/05048-1800
+data/05001-340089.bmp scores 15 in data/05048-1900
+data/05001-340089.bmp scores 8 in data/05052-2400
+data/05001-340089.bmp scores 29 in data/05052-2600
+data/05001-340089.bmp scores 5 in data/05055-1200
+
+data/05001-340090.bmp scores 71 in data/05001-3400
+data/05001-340090.bmp scores 3 in data/05001-5200
+data/05001-340090.bmp scores 3 in data/05009-1400
+data/05001-340090.bmp scores 1 in data/05046-4900
+data/05001-340090.bmp scores 9 in data/05048-1800
+data/05001-340090.bmp scores 17 in data/05048-1900
+data/05001-340090.bmp scores 3 in data/05052-2400
+data/05001-340090.bmp scores 18 in data/05052-2600
+data/05001-340090.bmp scores 11 in data/05055-1200
+
+data/05001-340091.bmp scores 42 in data/05001-3400
+data/05001-340091.bmp scores 6 in data/05001-5200
+data/05001-340091.bmp scores 1 in data/05009-1400
+data/05001-340091.bmp scores 10 in data/05046-4900
+data/05001-340091.bmp scores 8 in data/05048-1800
+data/05001-340091.bmp scores 3 in data/05048-1900
+data/05001-340091.bmp scores 17 in data/05052-2400
+data/05001-340091.bmp scores 38 in data/05052-2600
+data/05001-340091.bmp scores 3 in data/05055-1200
+
+data/05001-340092.bmp scores 74 in data/05001-3400
+data/05001-340092.bmp scores 1 in data/05001-5200
+data/05001-340092.bmp scores 6 in data/05009-1400
+data/05001-340092.bmp scores 7 in data/05046-4900
+data/05001-340092.bmp scores 12 in data/05048-1800
+data/05001-340092.bmp scores 14 in data/05048-1900
+data/05001-340092.bmp scores 8 in data/05052-2400
+data/05001-340092.bmp scores 35 in data/05052-2600
+data/05001-340092.bmp scores 9 in data/05055-1200
+
+data/05001-340093.bmp scores 44 in data/05001-3400
+data/05001-340093.bmp scores 4 in data/05001-5200
+data/05001-340093.bmp scores 6 in data/05009-1400
+data/05001-340093.bmp scores 3 in data/05046-4900
+data/05001-340093.bmp scores 5 in data/05048-1800
+data/05001-340093.bmp scores 22 in data/05048-1900
+data/05001-340093.bmp scores 8 in data/05052-2400
+data/05001-340093.bmp scores 5 in data/05052-2600
+data/05001-340093.bmp scores 8 in data/05055-1200
+
+data/05001-340094.bmp scores 70 in data/05001-3400
+data/05001-340094.bmp scores 1 in data/05001-5200
+data/05001-340094.bmp scores 9 in data/05009-1400
+data/05001-340094.bmp scores 5 in data/05046-4900
+data/05001-340094.bmp scores 16 in data/05048-1800
+data/05001-340094.bmp scores 19 in data/05048-1900
+data/05001-340094.bmp scores 18 in data/05052-2400
+data/05001-340094.bmp scores 13 in data/05052-2600
+data/05001-340094.bmp scores 24 in data/05055-1200
+
+data/05001-340095.bmp scores 46 in data/05001-3400
+data/05001-340095.bmp scores 1 in data/05001-5200
+data/05001-340095.bmp scores 12 in data/05009-1400
+data/05001-340095.bmp scores 3 in data/05046-4900
+data/05001-340095.bmp scores 13 in data/05048-1800
+data/05001-340095.bmp scores 13 in data/05048-1900
+data/05001-340095.bmp scores 9 in data/05052-2400
+data/05001-340095.bmp scores 1 in data/05052-2600
+data/05001-340095.bmp scores 23 in data/05055-1200
+
+data/05001-340096.bmp scores 45 in data/05001-3400
+data/05001-340096.bmp scores 0 in data/05001-5200
+data/05001-340096.bmp scores 0 in data/05009-1400
+data/05001-340096.bmp scores 1 in data/05046-4900
+data/05001-340096.bmp scores 9 in data/05048-1800
+data/05001-340096.bmp scores 9 in data/05048-1900
+data/05001-340096.bmp scores 10 in data/05052-2400
+data/05001-340096.bmp scores 18 in data/05052-2600
+data/05001-340096.bmp scores 12 in data/05055-1200
+
+data/05001-340097.bmp scores 11 in data/05001-3400
+data/05001-340097.bmp scores 13 in data/05001-5200
+data/05001-340097.bmp scores 3 in data/05009-1400
+data/05001-340097.bmp scores 3 in data/05046-4900
+data/05001-340097.bmp scores 11 in data/05048-1800
+data/05001-340097.bmp scores 7 in data/05048-1900
+data/05001-340097.bmp scores 2 in data/05052-2400
+data/05001-340097.bmp scores 3 in data/05052-2600
+data/05001-340097.bmp scores 3 in data/05055-1200
+
+data/05001-340098.bmp scores 66 in data/05001-3400
+data/05001-340098.bmp scores 1 in data/05001-5200
+data/05001-340098.bmp scores 5 in data/05009-1400
+data/05001-340098.bmp scores 3 in data/05046-4900
+data/05001-340098.bmp scores 11 in data/05048-1800
+data/05001-340098.bmp scores 17 in data/05048-1900
+data/05001-340098.bmp scores 18 in data/05052-2400
+data/05001-340098.bmp scores 9 in data/05052-2600
+data/05001-340098.bmp scores 5 in data/05055-1200
+
