@@ -85,7 +85,7 @@ void analyzer::compareAndWrite(char* head_1, int begin_1, int end_1, char* head_
 			strcpy(pic_2, head_2);
 			strcat(pic_2, number);
 			strcat(pic_2, ".bmp");
-			score = match.matching(pic_1, pic_2, 0.65f);
+			score = match.matching(pic_1, pic_2, 0.6f);
 			score_sum += score;
 			//write txt
 			fout_1 << pic_1 << "    vs   " << pic_2 << " = " << score << endl;

@@ -19,6 +19,8 @@ public:
 	int SYFp_File_LoadBMP(char* file, unsigned char* pImage, int* pX, int* pY);
 	int featureExtract(char* src_img, unsigned char* TempFeature);
 	int cvtKeyPoint(unsigned char* TempFeature, vector<KeyPoint>* keypoints);
+	int cvtKeyPointSwitch(unsigned char* TempFeature, vector<KeyPoint>* keypoints, float dx, float dy);
+	int rmEdge(Mat src, vector<KeyPoint>* keypoints);
 	~minExtractor();
 };
 

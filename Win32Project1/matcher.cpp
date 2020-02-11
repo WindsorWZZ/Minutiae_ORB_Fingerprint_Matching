@@ -22,14 +22,33 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	minExtractor extractor;
 	extractor.featureExtract(file_1, TempFeature1);
 	extractor.featureExtract(file_2, TempFeature2);
-
 	int len1 = (int)TempFeature1[0], len2 = (int)TempFeature2[0];
 	vector<KeyPoint> keyPoints_1(len1), keyPoints_2(len2);
 	extractor.cvtKeyPoint(TempFeature1, &keyPoints_1);
-	extractor.cvtKeyPoint(TempFeature2, &keyPoints_2);
-	/*
-	//Print the keypoints
+	extractor.cvtKeyPointSwitch(TempFeature2, &keyPoints_2, 3, 4);
+	
+	Mat img_1 = imread(file_1);
+	Mat img_2 = imread(file_2);
+	if (!img_1.data || !img_2.data)
+	{
+		cout << "error reading images " << endl;
+		return 0;
+	}
+	Mat d_srcL, d_srcR;
+	Mat img_matches, des_L, des_R;
+	//convert to grey picture for orb compute
+	cvtColor(img_1, d_srcL, CV_BGR2GRAY);
+	cvtColor(img_2, d_srcR, CV_BGR2GRAY);
 	vector<KeyPoint>::iterator KP;
+
+	extractor.rmEdge(d_srcL, &keyPoints_1);
+	extractor.rmEdge(d_srcL, &keyPoints_2);
+
+	cout << "size" << keyPoints_2.size() << endl;
+
+	
+	//Print the keypoints
+	/*
 	cout << "pic 1" << endl;
 	for (KP = keyPoints_1.begin(); KP != keyPoints_1.end(); KP++)
 	{
@@ -52,16 +71,8 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 		cout << "ID=" << KP->class_id << " ";
 		cout << endl;
 	}
+	
 	*/
-	//进行匹配
-	Mat img_1 = imread(file_1);
-	Mat img_2 = imread(file_2);
-
-	if (!img_1.data || !img_2.data)
-	{
-		cout << "error reading images " << endl;
-		return -1;
-	}
 
 	vector<Point2f> recognized;
 	vector<Point2f> scene;
@@ -69,12 +80,7 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	recognized.resize(500);
 	scene.resize(500);
 
-	Mat d_srcL, d_srcR;
 
-	Mat img_matches, des_L, des_R;
-	//convert to grey picture for orb compute
-	cvtColor(img_1, d_srcL, CV_BGR2GRAY);
-	cvtColor(img_2, d_srcR, CV_BGR2GRAY);
 
 	//设置关键点间的匹配方式为NORM_L2，更建议使用 FLANNBASED = 1, BRUTEFORCE = 2, BRUTEFORCE_L1 = 3, BRUTEFORCE_HAMMING = 4, BRUTEFORCE_HAMMINGLUT = 5, BRUTEFORCE_SL2 = 6 
 	OrbFeatureDetector featureDetector;
@@ -85,11 +91,12 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	featureExtractor.compute(d_srcL, keyPoints_1, d_descriptorsL);
 	featureExtractor.compute(d_srcR, keyPoints_2, d_descriptorsR);
 
-	Ptr<DescriptorMatcher> d_matcher = DescriptorMatcher::create("BruteForce");
+	Ptr<DescriptorMatcher> d_matcher = DescriptorMatcher::create("BruteForce-Hamming(2)");
 
 	std::vector<DMatch> matches;
 	std::vector<DMatch> good_matches;
-
+	if (keyPoints_1.size() == 0 || keyPoints_2.size() == 0)
+		return 0;
 	d_matcher->match(d_descriptorsL, d_descriptorsR, matches);
 
 	int sz = matches.size();
@@ -107,18 +114,18 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	double threshold = 360;
 	for (int i = 0; i < sz; i++)
 	{
-		if (matches[i].distance < threshold) //rate * max_dist
+		if (matches[i].distance < 40) //rate * max_dist
 		{
 			good_matches.push_back(matches[i]);
 		}
 	}
-	/*
+	
 	//提取良好匹配结果中在待测图片上的点集，确定匹配的大概位置
 	for (size_t i = 0; i < good_matches.size(); ++i)
 	{
 		scene.push_back(keyPoints_2[good_matches[i].trainIdx].pt);
 	}
-
+	
 	for (unsigned int j = 0; j < scene.size(); j++)
 		cv::circle(img_2, scene[j], 2, cv::Scalar(0, 255, 0), 2);
 	//画出普通匹配结果
@@ -136,7 +143,9 @@ float matcher::matching(char * file_1, char * file_2, float rate)
 	//画出良好匹配结果中在待测图片上的点集
 	imshow("MatchPoints_in_img_2", img_2);
 	//imwrite("MatchPoints_in_img_2.png", img_2);
-	*/
+	cout << good_matches.size() << endl;
+
+	waitKey(0);
 	return good_matches.size();
 }
 

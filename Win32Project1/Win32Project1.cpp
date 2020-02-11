@@ -41,7 +41,10 @@ int _tmain(int argc, _TCHAR* argv[])
 	head[6] = head_7;
 	head[7] = head_8;
 	head[8] = head_9;
+	
 
+	Ana.compareAndWrite(head[0], 0, 0, head[0], 5, 5, "results/rejFake.txt", "results/results.txt");
+	/*
 	for (int num = 0; num < 99; num++)
 	{
 		for (int i = 0; i < 9; i++)
@@ -51,7 +54,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		fout << endl;
 		fout.close();
 	}
-	
+	*/
+	//system("pause");
 	return 0;
 }
 
